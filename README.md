@@ -1,6 +1,6 @@
 # AI简历小助手 (Mock版)
 
-一个前后端分离的Web应用，模拟AI流式对话体验，使用Server-Sent Events (SSE)实现实时通信。
+一个前后端分离的Web应用，后端mock模拟AI流式对话体验，使用Server-Sent Events (SSE)实现实时通信。
 
 ## 项目概述
 
